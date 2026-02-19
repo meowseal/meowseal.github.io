@@ -46,6 +46,7 @@
     border-radius: 50px;
     transition: 1s;
     font-weight: bold;
+
   }
 
   a:hover {
@@ -64,14 +65,12 @@
     transform: rotate(180deg) scale(8);
   }
 
+
+
 </style>
 </head>
 
 <body>
-
-  <audio autoplay loop>
-    <source src="mike.mp3" type="audio/mpeg">
-  </audio>
 
   <div class="card">
     <h1>Jane's Funny Site >:) </h1>
@@ -79,7 +78,7 @@
     <p>
       HAI HAI HAI this is my site! It's still a work in progress
     </p>
-    <p> this site is DESKTOP only as mobile shows wierd fonts but yeah!!!
+    <p>site dont work on mobile :skull:</p>
 
     <a href="https://github.com/meowseal" target="_blank">
       MY GITHUB!!
@@ -89,9 +88,10 @@
       MY CARRD!!
     </a>
     
-    <a href="https://proladice.straw.page/" target="_blank">
+        <a href="https://proladice.straw.page/" target="_blank">
       MY STRAWPAGE!!
     </a>
+    
     
     <p> please do not the dog </p>
     <br>
