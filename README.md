@@ -17,9 +17,6 @@
   }
 
 
-  <audio autoplay loop>
-  <source src="mike.mp3" type="audio/mpeg">
-  </audio> 
   .card {
     background: white;
     padding: 50px;
@@ -77,6 +74,10 @@
 
 <body>
 
+  <audio autoplay loop>
+  <source src="mike.mp3" type="audio/mpeg">
+  </audio> 
+  
   <div class="card">
     <h1>Jane's Funny Site >:) </h1>
 
