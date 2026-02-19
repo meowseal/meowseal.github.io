@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>Jane's Funny Site</title>
