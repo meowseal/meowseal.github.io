@@ -79,6 +79,7 @@
     <p>
       HAI HAI HAI this is my site! It's still a work in progress
     </p>
+    <p> this site is DESKTOP only as mobile shows wierd fonts but yeah!!!
 
     <a href="https://github.com/meowseal" target="_blank">
       MY GITHUB!!
